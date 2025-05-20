@@ -1,0 +1,12 @@
+{
+  "name": "liturgical",
+  "url" : "https://github.com/jelckamata/liturgical/",
+  "license": "MIT",
+  "tags": ["church", "christianity", "liturgical", "luther", "lutheran"],
+  "description": "To calculate liturgical year, color, etc., under Lutheran Church's customs, for mainly PHP-available web servers",
+  "version": "0.0.1",
+  "contributors": ["JELCKamata", "Haruka Sato"],
+  "dependencies": {
+    "packphp": "^0.0.6"
+  }
+}
