@@ -1,2 +1,2 @@
-# Liturgical_Year
-A simple API to Calculation of Liturgical Year 
+# Liturgical.hx
+To calculate liturgical year, color, etc., for mainly PHP-available web servers
